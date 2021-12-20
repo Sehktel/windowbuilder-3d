@@ -18,6 +18,7 @@
 
 # Exclude compiled files
 /build
+/public/rooms/
 /scripts/stats.json
 /.eslintcache
 
